@@ -1,0 +1,24 @@
+
+<resources>
+    <string name="app_name">WorldCinema</string>
+    <string name="email">E-mail</string>
+    <string name="password">Пароль</string>
+    <string name="password_bt">Повторите пароль</string>
+    <string name="WorldCi">WorldCinema</string>
+    <string name="Name_tv">Имя</string>
+    <string name="Name_F_tv">Фамилия</string>
+    <string name="regist_bt">Регистрация</string>
+    <string name="regist_bt1">Зарегистроваться</string>
+    <string name="account_bt">У меня уже есть аккаунт</string>
+    <string name="tv_movie">Вы смотрели</string>
+    <string name="tv_Trend">В тренде</string>
+    <string name="look_br">Смотреть</string>
+    <string name="tv_new_text">Новое</string>
+    <string name="tv_me_movie">Для Вас</string>
+    <string name="Enterbt">Войти</string>
+    <string name="tv_Magic">The Magicians</string>
+    <string name="tv_Fentazi">Фентэзи</string>
+    <string name="tv_Actio">Приключения</string>
+    <string name="tv_SSA">США</string>
+    <string name="tv_TVS">Телесериал</string>
+</resources>
